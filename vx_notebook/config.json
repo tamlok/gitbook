@@ -1,0 +1,14 @@
+{
+  "assetsFolder": "vx_assets",
+  "description": "Notebook with git backend",
+  "id": "ba6c714a-8bc3-4e85-81aa-b02580287cb1",
+  "ignored": [],
+  "metadata": {},
+  "name": "gitbook",
+  "syncBackend": "git",
+  "syncEnabled": true,
+  "syncIntervalSeconds": 300,
+  "syncRemoteUrl": "https://github.com/tamlok/gitbook.git",
+  "tags": [],
+  "tagsModifiedUtc": 0
+}
