@@ -1,9 +1,18 @@
 {
   "createdUtc": 1779193470878,
-  "files": [],
+  "files": [
+    {
+      "createdUtc": 1779193507971,
+      "id": "6c5de401-1a0a-4207-9704-2bf45e05b5ff",
+      "metadata": {},
+      "modifiedUtc": 1779193507971,
+      "name": "note.md",
+      "tags": []
+    }
+  ],
   "folders": [],
   "id": "2e658f94-b9e9-4018-8a4a-a8a2305c3b14",
   "metadata": {},
-  "modifiedUtc": 1779193470878,
+  "modifiedUtc": 1779193507971,
   "name": "empty"
 }
