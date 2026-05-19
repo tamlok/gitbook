@@ -8,11 +8,19 @@
       "modifiedUtc": 1779107254848,
       "name": "note.md",
       "tags": []
+    },
+    {
+      "createdUtc": 1779156351982,
+      "id": "4eb9a7b5-2bc3-4b51-823d-754d9f6492f9",
+      "metadata": {},
+      "modifiedUtc": 1779156351982,
+      "name": "second.md",
+      "tags": []
     }
   ],
   "folders": [],
   "id": "a1909efa-d426-42d9-9371-43027aa73306",
   "metadata": {},
-  "modifiedUtc": 1779107254848,
+  "modifiedUtc": 1779156351982,
   "name": "."
 }
