@@ -1,1 +1,1 @@
-This is a very simple ques
+This is a very simple question

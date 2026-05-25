@@ -27,10 +27,11 @@
     }
   ],
   "folders": [
-    "empty"
+    "empty",
+    "another folder"
   ],
   "id": "a1909efa-d426-42d9-9371-43027aa73306",
   "metadata": {},
-  "modifiedUtc": 1779193470877,
+  "modifiedUtc": 1779429565257,
   "name": "."
 }
