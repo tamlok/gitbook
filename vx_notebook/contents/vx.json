@@ -24,6 +24,14 @@
       "modifiedUtc": 1779164102875,
       "name": "good.md",
       "tags": []
+    },
+    {
+      "createdUtc": 1779715575885,
+      "id": "38c07c09-100e-4b45-8d04-3fea3267b0f5",
+      "metadata": {},
+      "modifiedUtc": 1779715575885,
+      "name": "anothernote.md",
+      "tags": []
     }
   ],
   "folders": [
@@ -32,6 +40,6 @@
   ],
   "id": "a1909efa-d426-42d9-9371-43027aa73306",
   "metadata": {},
-  "modifiedUtc": 1779429565257,
+  "modifiedUtc": 1779715575885,
   "name": "."
 }
