@@ -9,6 +9,12 @@
   "syncEnabled": true,
   "syncIntervalSeconds": 300,
   "syncRemoteUrl": "https://github.com/tamlok/gitbook.git",
-  "tags": [],
-  "tagsModifiedUtc": 0
+  "tags": [
+    {
+      "metadata": {},
+      "name": "first_tag",
+      "parent": ""
+    }
+  ],
+  "tagsModifiedUtc": 1780984071558
 }

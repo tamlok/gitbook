@@ -5,14 +5,16 @@
       "createdUtc": 1779778507724,
       "id": "a7fa36a6-683d-4ad2-ad98-3b9edcc3971c",
       "metadata": {},
-      "modifiedUtc": 1779778507724,
+      "modifiedUtc": 1780984073070,
       "name": "note.md",
-      "tags": []
+      "tags": [
+        "first_tag"
+      ]
     }
   ],
   "folders": [],
   "id": "c230708e-87fd-41d8-a94e-fba1c5a73633",
   "metadata": {},
-  "modifiedUtc": 1779778507724,
+  "modifiedUtc": 1780984073070,
   "name": "folder7"
 }
